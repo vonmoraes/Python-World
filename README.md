@@ -9,6 +9,4 @@ No momento utilizando-se do youtube nos canais:
  * [11Wills11](https://www.youtube.com/user/11Wills11 "Wills")
 
 
-Ótimo tutorial de git e cheatset: [Roger Dudler](https://rogerdudler.github.io/git-guide/index.pt_BR.html "Roger Dudler")
-
-[Cheatset](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
+Ótimo tutorial de git e cheatset: [Roger Dudler](https://rogerdudler.github.io/git-guide/index.pt_BR.html "Roger Dudler") || [Cheatset](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
