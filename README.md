@@ -10,4 +10,5 @@ No momento utilizando-se do youtube nos canais:
 
 
 Ótimo tutorial de git e cheatset: [Roger Dudler](https://rogerdudler.github.io/git-guide/index.pt_BR.html "Roger Dudler")
-[Cheatset README.md](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
+
+[Cheatset](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
